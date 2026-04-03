@@ -30,7 +30,7 @@ export default function MackbookModel14(props) {
         }
       }
     })
-  }, [color])
+  }, [color, scene])
 
   return (
     <group {...props} dispose={null}>
