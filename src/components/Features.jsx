@@ -6,7 +6,7 @@ import clsx from 'clsx';
 import { Html } from '@react-three/drei';
 import { useMediaQuery } from 'react-responsive';
 import MacbookModel from './models/Macbook';
-import useMacbookStore from '../store/index.js';
+import useMacbookStore from '../store/Index.js';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 
